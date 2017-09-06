@@ -7,7 +7,7 @@ description: "Aspire to inspire until I expire!"
 keyword: "Earl, Earl Du Blog, 小杜的博客, Aierhaimian, 小杜"
 url: "http://Aierhaimian.github.io"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
-github_repo: "https://github.com/Aierhaimian/Aierhaimian.github.io.git" # you code repository
+github_repo: "https://github.com/qiubaiying/qiubaiying.github.io.git" # you code repository
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
