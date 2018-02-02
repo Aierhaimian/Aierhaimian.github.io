@@ -11,7 +11,7 @@ tags:
     - Algorithm
 ---
 
->详解LeetCode-561.Array Partition I 题目
+>详解LeetCode-771. Jewels and Stones 题目
 
 # 题目
 
