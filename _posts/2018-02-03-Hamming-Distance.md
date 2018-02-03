@@ -34,7 +34,7 @@ Given two integers x and y, calculate the Hamming distance.
 	Explanation:
 	1	(0 0 0 1)
 	4	(0 1 0 0)
-	       *   *
+	         *   *
 	The above arrows point to positions where the corresponding bits are different.
 
 #问题思路1
@@ -44,6 +44,7 @@ Given two integers x and y, calculate the Hamming distance.
 时间复杂度：O(n)
 
 ##C语言实现
+
 	int hammingDistance(int x, int y) {
 	    char str1[32] = {0};
 	    char str2[32] = {0};
