@@ -89,8 +89,9 @@ Given two integers x and y, calculate the Hamming distance.
 	    int xor = x^y;
 	    int hamming_distance = 0;
 	    for (int i = 0; i < 32; ++i) {
-	        hamming_distance += (xor >> i) & 1;
-	        if (xor == 0)
+	        int tmp = xor >> i;
+	        hamming_distance += tmp & 1;
+	        if (tmp == 0)
 	            break;
 	    }
 	    return hamming_distance;
