@@ -59,7 +59,8 @@ Time Limit Exceeded
 
 采用双指针法，用i和j分别指向数组首尾，计算盛水容量，如果比当前最大容量大就将此次计算的容量作为最大容量，然后让高度较小的指针运动。
 
-- 时间复杂度：
+- 时间复杂度：O(n)
+- 空间复杂度：O(1)
 
 (2). 算法实现：
 
@@ -85,3 +86,5 @@ Time Limit Exceeded
 	};
 
 (3). LeetCode执行结果：
+
+![](https://i.imgur.com/AusD4V3.jpg)
