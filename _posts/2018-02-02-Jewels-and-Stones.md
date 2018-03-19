@@ -8,7 +8,6 @@ header-img: img/post-bg-2.jpg
 catalog: true
 tags:
     - LeetCode
-    - Algorithm
 ---
 
 >详解LeetCode-771. Jewels and Stones 题目

@@ -8,7 +8,6 @@ header-img: img/post-bg-2.jpg
 catalog: true
 tags:
     - LeetCode
-    - Algorithm
 ---
 
 >详解LeetCode-26. Remove Duplicates from Sorted Array 题目

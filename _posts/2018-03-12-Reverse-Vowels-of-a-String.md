@@ -8,7 +8,6 @@ header-img: img/post-bg-2.jpg
 catalog: true
 tags:
     - LeetCode
-    - Algorithm
 ---
 
 >详解LeetCode-345. Reverse Vowels of a String 题目
