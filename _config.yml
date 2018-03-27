@@ -61,8 +61,8 @@ kramdown:
 # Gitalk
 gitalk:
   enable: true    #是否开启Gitalk评论
-  clientID: c06b6ffe975f58eba518                            #生成的clientID
-  clientSecret: 0fb072726c593cbdf7fc9ef675ddcde43c303708    #生成的clientSecret
+  clientID: ca6595408cc3d7be0d63                            #生成的clientID
+  clientSecret: 9dde6005ce7223a83adc5ac8789057c9ad618978    #生成的clientSecret
   repo: Aierhaimian.github.io    #仓库名称
   owner: Aierhaimian    #github用户名
   admin: Aierhaimian
