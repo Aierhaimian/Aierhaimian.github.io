@@ -706,7 +706,7 @@ RefBase嵌套了一个重要的类weakref_type，也就是前面m_refs指针所�
 		};
 其中#else到#endif之间为dbug代码，不用看，剩余部分未实现addStrongRef等方法，上述代码中并没有引用计数器相关控制的实现，真正有用的代码在类声明的外面。
 
-![](/home/dzx/Aierhaimian.github.io/img/wp.png) 
+![](img/wp.png) 
 
 看了这个图就不迷糊了。。。。
 
